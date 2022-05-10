@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning1Personalregister", "Övning1Personalregister\Övning1Personalregister.csproj", "{3D30CD4F-AF54-4C38-B09F-85B67A2E681E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D30CD4F-AF54-4C38-B09F-85B67A2E681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D30CD4F-AF54-4C38-B09F-85B67A2E681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D30CD4F-AF54-4C38-B09F-85B67A2E681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D30CD4F-AF54-4C38-B09F-85B67A2E681E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929D6014-1F7F-49F1-A70B-7B02FAD82DEA}
+	EndGlobalSection
+EndGlobal
